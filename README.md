@@ -8,4 +8,4 @@ I'm Matthew, I'm 18 years old.
 - ⚡ Fun fact: I have 1236 hours total in Geometry Dash lol.
 
 Thanks for reading! :D
--# I'll improve this soon.
+I'll improve this soon.
